@@ -1,0 +1,950 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|c:\\users\\user\\onedrive\\desktop\\oops real\\windowsformsapp4\\windowsformsapp4\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\invoicecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\invoicecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\invoicecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\invoicecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\addmobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\addmobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\addmobile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\addmobile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\addcustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\addcustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\used_mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\used_mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\used_mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\used_mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\updatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\updatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\addmobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\addmobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\signinadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\signinadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\signinadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\signinadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\delete_mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\delete_mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\delete_mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\delete_mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\delete_mobile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\delete_mobile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\nokia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\nokia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\update_mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\update_mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\samsung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\samsung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\china.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\china.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\iphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\iphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\update_mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\update_mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\updatecustomerrrr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\updatecustomerrrr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\updatecustomerrrr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\updatecustomerrrr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\bin\\Debug\\WindowsFormsApp4.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp4\\bin\\Debug\\WindowsFormsApp4.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\nokia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\nokia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\displayused.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\displayused.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\displayused.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\displayused.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\showname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\showname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\dlsignin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\dlsignin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\delete_used.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\delete_used.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\update_used.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\update_used.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\customerr_show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\customerr_show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\delete_used.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\delete_used.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\china.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\china.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\customerr_show.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\customerr_show.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\customerr_show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\customerr_show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\customer_show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\customer_show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\update2_used.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\update2_used.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\update2_used.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\update2_used.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\update2_used.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\update2_used.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\customer_show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\customer_show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\update_used.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\update_used.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\used_mobile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\used_mobile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\delete_used.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\delete_used.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\iphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\iphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\windowsformsapp4\\samsung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F43D4AAE-389D-411B-ACC3-6736D5B60D08}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\samsung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "signinadmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\signinadmin.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\signinadmin.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\signinadmin.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\signinadmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:21:21.86Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "addmobile.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\addmobile.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\addmobile.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\addmobile.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\addmobile.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:42:24.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "addcustomer.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\addcustomer.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\addcustomer.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\addcustomer.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\addcustomer.Designer.cs",
+              "ViewState": "AgIAAIABAAAAZmZmZmYSwB4CAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:59:51.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete_mobile.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\Delete_mobile.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Delete_mobile.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\Delete_mobile.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Delete_mobile.Designer.cs",
+              "ViewState": "AgIAAIYAAACgmZmZmZkdwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:13:35.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Form2.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\Form2.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T20:13:07.42Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T10:05:18.58Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\Form2.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Form2.Designer.cs",
+              "ViewState": "AgIAAE8BAAAAAAAAAAAiwGMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:25:03.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "WindowsFormsApp4.exe.config",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\bin\\Debug\\WindowsFormsApp4.exe.config",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\bin\\Debug\\WindowsFormsApp4.exe.config",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\bin\\Debug\\WindowsFormsApp4.exe.config",
+              "RelativeToolTip": "WindowsFormsApp4\\bin\\Debug\\WindowsFormsApp4.exe.config",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-09T10:12:59.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete_mobile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\Delete_mobile.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Delete_mobile.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\Delete_mobile.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\Delete_mobile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T07:20:06.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "invoice.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\invoice.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\invoice.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\invoice.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\invoice.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAAAKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:53:03.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "invoice.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\invoice.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\invoice.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\invoice.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\invoice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:53:00.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "invoicecustomer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\invoicecustomer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\invoicecustomer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\invoicecustomer.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\invoicecustomer.cs",
+              "ViewState": "AgIAAG0AAABAmZmZmZkrwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T16:42:10.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "invoicecustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\invoicecustomer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\invoicecustomer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\invoicecustomer.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\invoicecustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T16:41:59.506Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "signinadmin.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\signinadmin.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\signinadmin.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\signinadmin.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\signinadmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:41:22.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "updatecustomer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\updatecustomer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\updatecustomer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\updatecustomer.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\updatecustomer.cs",
+              "ViewState": "AgIAAAkAAACAZmZmZmYmwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:27:07.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "update_mobile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\update_mobile.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\update_mobile.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\update_mobile.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\update_mobile.cs",
+              "ViewState": "AgIAAHUAAAAAZ2ZmZmb2v3UAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T12:20:47.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "update_mobile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\update_mobile.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\update_mobile.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\update_mobile.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\update_mobile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T12:06:44.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete_mobile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\Delete_mobile.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Delete_mobile.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\Delete_mobile.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Delete_mobile.cs",
+              "ViewState": "AgIAAEEAAAAA6JmZmZnZvwAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:45:49.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "addmobile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\addmobile.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\addmobile.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\addmobile.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\addmobile.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAAwKcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T12:48:48.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "displayused.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\displayused.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\displayused.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\displayused.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\displayused.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:55:40.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "displayused.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\displayused.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\displayused.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\displayused.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\displayused.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:55:37.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "addmobile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\addmobile.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\addmobile.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\addmobile.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\addmobile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T12:30:24.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "updatecustomerrrr.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\updatecustomerrrr.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\updatecustomerrrr.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\updatecustomerrrr.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\updatecustomerrrr.cs",
+              "ViewState": "AgIAAGMAAABAAAAAAAAmwAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:17:23.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "updatecustomerrrr.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\updatecustomerrrr.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\updatecustomerrrr.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\updatecustomerrrr.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\updatecustomerrrr.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:10:18.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "customerr_show.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\customerr_show.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\customerr_show.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\customerr_show.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\customerr_show.Designer.cs",
+              "ViewState": "AgIAAGMAAADAMzMzMzMvwFMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T22:07:18.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "customerr_show.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\customerr_show.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\customerr_show.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\customerr_show.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\customerr_show.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wBUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:17:30.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "customerr_show.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\customerr_show.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\customerr_show.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\customerr_show.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\customerr_show.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:17:23.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "customer_show.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\customer_show.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\customer_show.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\customer_show.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\customer_show.cs",
+              "ViewState": "AgIAABEAAAAAMzMzMzPzvwkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:58:53.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "customer_show.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\customer_show.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\customer_show.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\customer_show.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\customer_show.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:20:21.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "update2_used.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\update2_used.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\update2_used.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\update2_used.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\update2_used.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAuwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:56:20.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "used_mobile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\used_mobile.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\used_mobile.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\used_mobile.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\used_mobile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T18:29:48.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "update2_used.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\update2_used.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\update2_used.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\update2_used.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\update2_used.Designer.cs",
+              "ViewState": "AgIAAFgAAAAAzczMzMwuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:38:46.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "delete_used.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\delete_used.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\delete_used.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\delete_used.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\delete_used.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:38:43.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "update2_used.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\update2_used.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\update2_used.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\update2_used.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\update2_used.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:07:45.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "iphone.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\iphone.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\iphone.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\iphone.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\iphone.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAYwFAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:49:21.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "used_mobile.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\used_mobile.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\used_mobile.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\used_mobile.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\used_mobile.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAQAAAAAowPEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:38:46.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "update_used.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\update_used.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\update_used.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\update_used.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\update_used.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:59:01.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "update_used.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\update_used.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\update_used.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\update_used.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\update_used.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:50:59.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "delete_used.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\delete_used.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\delete_used.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\delete_used.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\delete_used.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAuwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:17:29.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "delete_used.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\delete_used.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\delete_used.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\delete_used.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\delete_used.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:15:02.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "used_mobile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\used_mobile.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\used_mobile.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\used_mobile.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\used_mobile.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAcwEYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T18:52:51.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "china.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\china.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\china.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\china.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\china.cs",
+              "ViewState": "AgIAAGEAAAAAZ2ZmZmYGwFcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:33:34.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "china.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\china.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\china.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\china.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\china.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:22:58.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "nokia.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\nokia.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\nokia.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\nokia.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\nokia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:10:09.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "nokia.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\nokia.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\nokia.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\nokia.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\nokia.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:10:04.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "iphone.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\iphone.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\iphone.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\iphone.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\iphone.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:22:20.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "samsung.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\samsung.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\samsung.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\samsung.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\samsung.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:43:57.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "samsung.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\samsung.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\samsung.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\samsung.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\samsung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:34:28.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "addcustomer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\addcustomer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\addcustomer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\addcustomer.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\addcustomer.cs",
+              "ViewState": "AgIAAI8BAAAAAAAAAAAAwKABAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:30:11.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "delete.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\delete.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\delete.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\delete.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\delete.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAWwMwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T20:22:24.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "delete.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\delete.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\delete.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\delete.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\delete.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T20:12:27.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "addcustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\addcustomer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\addcustomer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\addcustomer.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\addcustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:24:16.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\Form3.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Form3.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\Form3.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:34:32.841Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Form2.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\Form2.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Form2.cs",
+              "ViewState": "AgIAAEgAAAAA//////8TwFUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:53:02.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DLsignin.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\DLsignin.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\DLsignin.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\DLsignin.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\DLsignin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:38:29.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "showname.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\showname.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\showname.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\showname.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\showname.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:40:25.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\Form3.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Form3.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\Form3.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Form3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T19:31:20.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Form1.Designer.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDQAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:40:49.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\oops real\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAmpmZmZn5vw4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:00:42.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

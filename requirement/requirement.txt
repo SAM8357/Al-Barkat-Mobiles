@@ -1,0 +1,10 @@
+invoice
+price fix
+vendor
+imei number
+restore for fix time
+need a backup for real time restore
+mobile_txt
+modal_txt
+damount_txt
+amount_txt
